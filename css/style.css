@@ -474,3 +474,19 @@
 .footer .copyright a {
     color: var(--light);
 }
+/* Style for the navbar brand */
+.navbar-brand {
+    display: flex;
+    align-items: center;
+    padding: 0 4px; /* You can adjust the padding as needed */
+    padding-right: 5px; /* Additional padding for lg breakpoint */
+    background-color: #007bff; /* Primary color */
+  }
+  
+  /* Style for the logo image */
+  .logo {
+    width: 200px;
+    height: 80px;
+    /* Add any other styles you need for the logo */
+  }
+  
